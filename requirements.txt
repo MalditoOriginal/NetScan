@@ -1,0 +1,14 @@
+# IP Definition Project - Requirements
+
+# Core dependencies
+# ipaddress is included in Python standard library
+
+# GUI dependencies
+ttkbootstrap>=1.10.0
+
+# API dependencies (optional)
+flask>=2.0.0
+
+# Testing dependencies (optional)
+pytest>=7.0.0
+coverage>=7.0.0
